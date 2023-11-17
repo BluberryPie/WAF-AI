@@ -1,0 +1,10 @@
+TRAIN_DATA_FILEPATH= "data/train.csv"
+TOKENIZER_SAVE_PATH = "data/tokenizer.json"
+W2V_MODEL_SAVE_PATH = "data/word2vec.model"
+
+VOCAB_SIZE = 10000
+
+W2V_EMBEDDING_DIM = 128
+W2V_WINDOW_SIZE = 5
+W2V_MIN_COUNT = 1
+
